@@ -2,7 +2,7 @@
 Los siguientes pasos son para dejar de seguir las cuentas de personas que no te siguen de vuelta. **LA PROGRAMACIÓN NO DEBE SER ABUSADA SINO SU CUENTA SERÁ BLOQUEADA.** Para prevenir tal situación se debe hacer caso de los datos generales importantes mecionados a continuación. La licencia de la programación es de uso libre y el programador no se responzabiliza por su uso: **usar bajo su propio riesgo.**
     
 # Datos generales importantes
-- Instagram permite dejar de seguir 600 personas cada 72 horas sino la cuenta sera bloqueada
+- Instagram permite dejar de seguir 600 personas cada 72 horas sino la cuenta será bloqueada
 - Por razones de seguridad instagram no permite que se deje de seguir muchas cuentas a la vez. Por esta misma razón el programa hace pausas de 5 min cada 5 cuentas. Por ende viene a tener una velocidad de una cuenta por minuto.
 - 600 personas equivale a 600 minutos que es el equivalente a 10 horas. PONER ALARMA PARA PARAR LA PROGRAMACIÓN! Para parar solo se debe cerrar la ventana.
 - NO USAR EL MÓVIL O NINGÚN DISPOSITIVO que tenga la cuenta de instagram abierta durante la ejecución del programa. La programación simula a una persona por ende actividades en varios dispositivos hará que la cuenta sea bloqueada. 
