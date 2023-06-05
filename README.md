@@ -1,5 +1,5 @@
 # Pasos para Instagram
-Los siguientes pasos son para dejar de seguir las cuentas de personas que no te siguen de vuelta. **LA PROGRAMACIÓN NO DEBE SER ABUSADA SINO SU CUENTA SERÁ BLOQUEADA.** Para prevenir tal situación se debe hacer caso de los datos generales importantes mecionados a continuación. La licencia de la programación es de uso libre y el programador no se responzabiliza por su uso: **usar bajo su propio riesgo.**
+Los siguientes pasos son para dejar de seguir las cuentas de personas que no te siguen de vuelta. **LA PROGRAMACIÓN NO DEBE SER ABUSADA SINO SU CUENTA SERÁ BLOQUEADA.** Para prevenir tal situación se debe hacer caso de los datos generales importantes mencionados a continuación. La licencia de la programación es de uso libre y el programador no se responzabiliza por su uso: **usar bajo su propio riesgo.**
 
 * [Datos generales importantes](#datos-generales-importantes)
 * [Como iniciar el programa](#como-iniciar-el-programa)
